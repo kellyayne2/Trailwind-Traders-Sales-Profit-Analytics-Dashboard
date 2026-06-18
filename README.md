@@ -25,3 +25,10 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - UK and USA customers exhibited the highest loyalty engagement, indicating strong customer retention in these markets.
 - Profitability was driven primarily by a small group of high-performing products, led by the Modular Sofa Set and Motion Sensor Alarm.
 - Profit margins remained consistently above 90% throughout most of the reporting period, demonstrating strong operational efficiency despite occasional fluctuations.
+## Dashboard Overview
+![Sales Overview](Dashboard_overview.png)
+## Bike_Usage Analysis
+![Profit Overview](Bike_Usage_Analysis.png)
+
+## Autor
+Ikechukwu Caleb Mgbemeneh
