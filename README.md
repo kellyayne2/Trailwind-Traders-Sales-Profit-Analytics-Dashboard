@@ -2,6 +2,18 @@
 Interactive Power BI dashboard analyzing sales performance, profitability, customer loyalty, and product trends using DAX and Power Query.
 ## Project Overview
 This project is a Power BI Business Intelligence solution developed using the Trailwind Traders dataset. The dashboard provides insights into sales performance, profitability, customer loyalty, and product trends through interactive visualizations and KPI tracking.
+## Project Highlights
+- Transformed and prepared data using Power Query.
+- Built a relational data model across multiple datasets.
+- Developed custom DAX measures for profitability and sales analysis.
+- Designed interactive dashboards with dynamic filtering and KPI tracking.
+- Published dashboards to Power BI Service for reporting and monitoring
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Python
 ## Data Preparation & Modeling
 - Imported and transformed multiple datasets using Power Query.
 - Optimized data types and validated data quality.
