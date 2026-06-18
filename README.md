@@ -25,7 +25,7 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - Built interactive Sales and Profit report.
 - Added country and date slicers for dynamic filtering.
 - Created KPI cards, trend analyses, product performance visualizations, and country-level profitability reports.
-## Dashboard Overview
+## Dashboard & Model Preview
 ![Sales Overview](Sales_Overview.png)
 ![Profit Overview](Profit_Overview.png)
 ![DataModel](Trailwind_Data_Model.png)
