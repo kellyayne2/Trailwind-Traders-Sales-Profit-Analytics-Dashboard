@@ -9,6 +9,7 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - Integrated exchange-rate data using Python and Power BI.
 - Designed a relational data model linking Sales, Purchases, Countries, Calendar, and Exchange tables.
 - Configured one-to-one and many-to-one relationships to support accurate reporting.
+![DataModel](Trailwind_Data_Model.png)
 ## DAX Measures
 - Developed custom measures for:
 - Gross Revenue
@@ -26,9 +27,9 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - Profitability was driven primarily by a small group of high-performing products, led by the Modular Sofa Set and Motion Sensor Alarm.
 - Profit margins remained consistently above 90% throughout most of the reporting period, demonstrating strong operational efficiency despite occasional fluctuations.
 ## Dashboard Overview
-![Sales Overview](Dashboard_overview.png)
+![Sales Overview](Sales_Overview.png)
 ## Bike_Usage Analysis
-![Profit Overview](Bike_Usage_Analysis.png)
+![Profit Overview](Profit_Overview.png)
 
 ## Autor
 Ikechukwu Caleb Mgbemeneh
