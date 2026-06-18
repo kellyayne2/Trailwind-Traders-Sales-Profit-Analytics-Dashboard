@@ -17,3 +17,11 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - Quarterly Profit
 - Median Sales
 - Total Profit
+## Dashboard Development
+- Built interactive Sales and Profit report.
+- Added country and date slicers for dynamic filtering.
+- Created KPI cards, trend analyses, product performance visualizations, and country-level profitability reports.
+## Key Insight
+- UK and USA customers exhibited the highest loyalty engagement, indicating strong customer retention in these markets.
+- Profitability was driven primarily by a small group of high-performing products, led by the Modular Sofa Set and Motion Sensor Alarm.
+- Profit margins remained consistently above 90% throughout most of the reporting period, demonstrating strong operational efficiency despite occasional fluctuations.
