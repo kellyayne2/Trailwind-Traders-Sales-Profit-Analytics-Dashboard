@@ -28,7 +28,6 @@ This project is a Power BI Business Intelligence solution developed using the Tr
 - Profit margins remained consistently above 90% throughout most of the reporting period, demonstrating strong operational efficiency despite occasional fluctuations.
 ## Dashboard Overview
 ![Sales Overview](Sales_Overview.png)
-## Bike_Usage Analysis
 ![Profit Overview](Profit_Overview.png)
 
 ## Autor
